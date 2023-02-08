@@ -3,7 +3,7 @@
         'name' => 'vendor/composer',
         'pretty_version' => 'dev-master',
         'version' => 'dev-master',
-        'reference' => '8cbc1b5d9a7000fe69aa85615fef843a0de54204',
+        'reference' => '72d16be23d529096663587edefaaec677d7a2d63',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -265,7 +265,7 @@
         'vendor/composer' => array(
             'pretty_version' => 'dev-master',
             'version' => 'dev-master',
-            'reference' => '8cbc1b5d9a7000fe69aa85615fef843a0de54204',
+            'reference' => '72d16be23d529096663587edefaaec677d7a2d63',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
