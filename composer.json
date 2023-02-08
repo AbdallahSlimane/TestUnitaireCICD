@@ -1,0 +1,14 @@
+{
+  "name": "vendor/composer",
+  "description": "Projet test unitaire",
+  "type": "project",
+  "authors": [
+    {
+      "name": "Samuel - Julien - Abdallah"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require-dev": {
+    "phpunit/phpunit": "9"
+  }
+}
